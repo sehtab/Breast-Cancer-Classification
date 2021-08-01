@@ -16,7 +16,7 @@ In this project, after preprocessing the dataset is analyzed with various classi
 
 ## Notebook-2
 
-In this project dataset is analyzed with Neural Network
+In this project dataset is analyzed with Neural Network. A softmax regression is created with neural nets and with varipus epochs accuracy is calculated and project performance is observed.
 
 ## .py File
 
